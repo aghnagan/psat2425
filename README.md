@@ -38,6 +38,7 @@ a. Mengunduh semua file yang ada di https://github.com/paknux/psat2425
         ~> contoh : .env               # Abaikan file .env
                     uploads/*          # Abaikan semua isi folder uploads
                     !uploads/          # Tapi tetap sertakan folder uploads-nya
+#
 b. Membuat Repository Github
     1. Pergi ke github 
     2. Klik Home
@@ -46,6 +47,7 @@ b. Membuat Repository Github
     5. Pilih Public, agar dapat dilihat oleh orang lain
     6. Create Repository
     ~> Contoh hasil : https://github.com/aghnagan/psat2425
+#    
 c. Mengepush ke Github
     1. Buka Terminal ~> New Terminal
     2. Ketik git init
