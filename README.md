@@ -171,7 +171,7 @@ c. Mengepush ke Github
     ~> sudo systemctl reload apache2	     =  Reload konfigurasi Apac
 #
 ## 🧪 UJI COBA
-    ~> Coba Jika berhasil masuk, 
+    ~> Coba menggunakan ip public, jika berhasil;
         SELAMAT! 🎉 Aplikasi kamu sudah berhasil di-deploy secara otomatis!akses menggunakan ip public
     ~> Jalankan menggunakan username dan password default:
         Username = admin
