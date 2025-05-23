@@ -34,11 +34,10 @@ a. Mengunduh semua file yang ada di https://github.com/paknux/psat2425
     7. Ctrl+S ~> semua filenya (agar filenya tersimpan)
     8. Tambahkan file .env dan biarkan kosong dulu
     9. Pastikan file .gitignore ada (jika belum, buatlah filenya)
-        File ini berfungsi untuk mengabaikan file sensitif
+    File ini berfungsi untuk mengabaikan file sensitif
         ~> contoh : .env               # Abaikan file .env
                     uploads/*          # Abaikan semua isi folder uploads
                     !uploads/          # Tapi tetap sertakan folder uploads-nya
-#
 b. Membuat Repository Github
     1. Pergi ke github 
     2. Klik Home
@@ -46,8 +45,7 @@ b. Membuat Repository Github
     4. Isi Repository Name ~> psat2425 (disesuaikan)
     5. Pilih Public, agar dapat dilihat oleh orang lain
     6. Create Repository
-        ~> Contoh hasil : https://github.com/aghnagan/psat2425
-#  
+    ~> Contoh hasil : https://github.com/aghnagan/psat2425
 c. Mengepush ke Github
     1. Buka Terminal ~> New Terminal
     2. Ketik git init
